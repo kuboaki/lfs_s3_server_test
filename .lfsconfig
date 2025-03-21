@@ -1,2 +1,2 @@
 [lfs]
-url="https://127.0.0.1:8089/api/kuboaki/lfs_s3_server_test"
+url="https://127.0.0.1:8081/api/kuboaki/lfs_s3_server_test"
